@@ -1,0 +1,42 @@
+[33mcommit 9a676f72f9076697ba70a0657fb31077a7e52911[m
+Merge: 3387337 31b9900
+Author: DJP666 <705181680@qq.com>
+Date:   Tue Sep 18 19:42:53 2018 +0800
+
+    conflict fixed
+
+[33mcommit 338733785f47f344e3a35e20d5927bba71f87427[m
+Author: DJP666 <705181680@qq.com>
+Date:   Tue Sep 18 19:39:52 2018 +0800
+
+    simple
+
+[33mcommit 31b990013af6ea157f2887a5f08481eb020e2a0c[m
+Author: DJP666 <705181680@qq.com>
+Date:   Tue Sep 18 19:37:50 2018 +0800
+
+    and simple
+
+[33mcommit 0179ab3b36f31a70b0d69fa643a070c9ff2d069a[m
+Author: DJP666 <705181680@qq.com>
+Date:   Tue Sep 18 19:26:30 2018 +0800
+
+    branch test
+
+[33mcommit a50e58795b056f37619ed620128bff5b51f05462[m
+Author: DJP666 <705181680@qq.com>
+Date:   Tue Sep 18 15:32:09 2018 +0800
+
+    git tracks changes
+
+[33mcommit d02977af791f9a6484ddd015b51d9d40e27581e9[m
+Author: DJP666 <705181680@qq.com>
+Date:   Tue Sep 18 15:28:09 2018 +0800
+
+    understand how to stage works
+
+[33mcommit 1b1d037ccae37c16db5a59171b5a137d2bfe6e92[m
+Author: DJP666 <705181680@qq.com>
+Date:   Tue Sep 18 14:57:16 2018 +0800
+
+    wrote a readme file
